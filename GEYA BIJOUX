@@ -1,0 +1,35 @@
+Magazin online de bijuterii
+
+1.0.0
+In pagina web va aparea:
+* HEADER:
+    -Logo
+    - Nume
+    -Media link
+    -Cos
+* MENU BAR: 
+    - Aur
+    -Argint
+    -Premiun
+    -Personalizate
+    -Promotii
+    -Cadouri EL & EA 
+* Imagine reprezentativa
+*Date de contact/Adresa
+
+1.1.0
+* Se  adauga SEARCH
+
+1.1.3
+* Se remediaza un buton de Select
+* Se schimba adresa
+* Se remediaza functionalitatea butonului Search
+
+1.2.0
+*Se adauga returul
+
+2.0.0. 
+Se schimba interfata siteului( se adauga Amanet)
+
+2.0.1
+Se remedieaza asezarea imaginii
